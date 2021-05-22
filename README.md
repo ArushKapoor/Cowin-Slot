@@ -1,2 +1,2 @@
 # Cowin-Slot
-to run python3 scheduler.py
+to run -> python3 scheduler.py
