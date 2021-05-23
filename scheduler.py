@@ -8,7 +8,7 @@ def do_nothing():
 
 
 # schedule.every(1).minutes.do(cowin)
-schedule.every(5).seconds.do(cowin)
+schedule.every(30).seconds.do(cowin)
 
 while 1:
     schedule.run_pending()
